@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "halo-merah",
-    "firebase init": "halo-merah"
-  },
-  "targets": {},
-  "etags": {}
-}
